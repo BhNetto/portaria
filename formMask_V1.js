@@ -1,0 +1,1 @@
+new FormMask(document.querySelector("#cpf"), "___.___.___-__", "_", [".", "-"])
